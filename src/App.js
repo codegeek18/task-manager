@@ -7,7 +7,7 @@ import TaskList from "./TaskList";
 import EditTask from "./EditTask";
 
 function App() {
-  const API_URL = "https://task-manager-api.onrender.com";
+  const API_URL = "https://task-manager-api-3cdk.onrender.com";
 
   const [tasks, setTasks] = useState([]);
   const [search, setSearch] = useState("");
